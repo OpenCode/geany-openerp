@@ -1,19 +1,49 @@
 This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
 
-==snippets.conf==
+# snippets.conf #
 
 Contains the definition of different snippets of code used within the files .py
+
+*INSTALLATION*
+
+Copy snippets.conf file in ~/.config/geany
+
+*USE*
+
 Just type keywords below and press TAB button to get the auto-insertion of the snippet
 
-char : fields.char('', size = 64),
-integ : fields.integer(''),
+char = fields.char('', size = 64),
+integ = fields.integer(''),
+bool = fields.boolean(''), 
+float = fields.float(''),
+text = fields.text(''),
+date = fields.date(''),
+datetime = fields.datetime(''),
+selec = field.selection(
+		(('', ''),('','')),
+		'')
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
-==snippets.conf==
+# snippets.conf #
 
 Contiene la definizione di diversi snippet di codice da usare all'interno dei file .py
+
+*INSTALLAZIONE*
+
+Copiare il file snippets.conf in ~/.config/geany
+
+*USO*
+
 Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
 
-char : fields.char('', size=64),
-integ : fields.integer(''),
+char = fields.char('', size = 64),
+integ = fields.integer(''),
+bool = fields.boolean(''), 
+float = fields.float(''),
+text = fields.text(''),
+date = fields.date(''),
+datetime = fields.datetime(''),
+selec = field.selection(
+		(('', ''),('','')),
+		'')
