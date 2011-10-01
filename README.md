@@ -12,16 +12,16 @@ Copy snippets.conf file in ~/.config/geany
 
 Just type keywords below and press TAB button to get the auto-insertion of the snippet
 
-oclass = class structure
-ocol = _column structure	
-ochar = fields.char('', size = 64),
-ointeg = fields.integer(''),
-obool = fields.boolean(''), 
-ofloat = fields.float(''),
-otext = fields.text(''),
-odate = fields.date(''),
-odatetime = fields.datetime(''),
-oselec = field.selection(
+  oclass = class structure
+  ocol = _column structure	
+  ochar = fields.char('', size = 64),
+  ointeg = fields.integer(''),
+  obool = fields.boolean(''), 
+  ofloat = fields.float(''),
+  otext = fields.text(''),
+  odate = fields.date(''),
+  odatetime = fields.datetime(''),
+  oselec = field.selection(
 		(('', ''),('','')),
 		'')
 
@@ -39,15 +39,15 @@ Copiare il file snippets.conf in ~/.config/geany
 
 Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
 
-oclass = struttura di una classe
-ocol = struttura delle colonne
-ochar = fields.char('', size = 64),
-ointeg = fields.integer(''),
-obool = fields.boolean(''), 
-ofloat = fields.float(''),
-otext = fields.text(''),
-odate = fields.date(''),
-odatetime = fields.datetime(''),
-oocselec = field.selection(
+  oclass = struttura di una classe
+  ocol = struttura delle colonne
+  ochar = fields.char('', size = 64),
+  ointeg = fields.integer(''),
+  obool = fields.boolean(''), 
+  ofloat = fields.float(''),
+  otext = fields.text(''),
+  odate = fields.date(''),
+  odatetime = fields.datetime(''),
+  oocselec = field.selection(
 		(('', ''),('','')),
 		'')
