@@ -1,0 +1,19 @@
+This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
+
+==snippets.conf==
+
+Contains the definition of different snippets of code used within the files .py
+Just type keywords below and press TAB button to get the auto-insertion of the snippet
+
+char : fields.char('', size = 64),
+integ : fields.integer(''),
+
+Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
+
+==snippets.conf==
+
+Contiene la definizione di diversi snippet di codice da usare all'interno dei file .py
+Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
+
+char : fields.char('', size=64),
+integ : fields.integer(''),
