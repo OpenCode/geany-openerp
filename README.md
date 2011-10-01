@@ -1,6 +1,6 @@
 This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
 
-### snippets.conf
+## snippets.conf
 
 Contains the definition of different snippets of code used within the files .py
 
@@ -13,7 +13,8 @@ Copy snippets.conf file in ~/.config/geany
 Just type keywords below and press TAB button to get the auto-insertion of the snippet
 
 * oclass = class structure
-* ocol = _column structure	
+* ocols = _column structure
+* odefs = _defaults structure
 * ochar = field char
 * ointeg = field integer
 * obool = field boolean
@@ -22,10 +23,12 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * odate = field date
 * odatetime = field datetime
 * oselec = field selection
+* o2m = field one2many
+* m2o = field many2one
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
-#### snippets.conf
+## snippets.conf
 
 Contiene la definizione di diversi snippet di codice da usare all'interno dei file .py
 
@@ -38,7 +41,8 @@ Copiare il file snippets.conf in ~/.config/geany
 Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
 
 * oclass = struttura di una classe
-* ocol = struttura delle colonne
+* ocols = struttura _column
+* odefs = struttura _defaults
 * ochar = field char
 * ointeg = field integer
 * obool = field boolean
@@ -47,3 +51,5 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * odate = field date
 * odatetime = field datetime
 * oselec = field selection
+* o2m = field one2many
+* m2o = field many2one
