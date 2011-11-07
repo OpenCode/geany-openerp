@@ -12,17 +12,17 @@ Copy snippets.conf file in ~/.config/geany
 
 Just type keywords below and press TAB button to get the auto-insertion of the snippet
 
-* oclass = class structure
-* ocols = _column structure
-* odefs = _defaults structure
-* ochar = field char
-* ointeg = field integer
-* obool = field boolean
-* ofloat = field float
-* otext = field text
-* odate = field date
-* odatetime = field datetime
-* oselec = field selection
+* class = class structure
+* cols = _column structure
+* defs = _defaults structure
+* char = field char
+* integ = field integer
+* bool = field boolean
+* float = field float
+* text = field text
+* date = field date
+* datetime = field datetime
+* selec = field selection
 * o2m = field one2many
 * m2o = field many2one
 
@@ -40,16 +40,16 @@ Copiare il file snippets.conf in ~/.config/geany
 
 Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
 
-* oclass = struttura di una classe
-* ocols = struttura _column
-* odefs = struttura _defaults
-* ochar = field char
-* ointeg = field integer
-* obool = field boolean
-* ofloat = field float
-* otext = field text
-* odate = field date
-* odatetime = field datetime
-* oselec = field selection
+* class = struttura di una classe
+* cols = struttura _column
+* defs = struttura _defaults
+* char = field char
+* integ = field integer
+* bool = field boolean
+* float = field float
+* text = field text
+* date = field date
+* datetime = field datetime
+* selec = field selection
 * o2m = field one2many
 * m2o = field many2one
