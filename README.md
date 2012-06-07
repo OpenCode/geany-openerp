@@ -25,6 +25,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * oselec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* oraise = raise error message
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -53,3 +54,4 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * oselec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* oraise = messaggio di errore di raise
