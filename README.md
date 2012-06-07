@@ -25,7 +25,8 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
-* oraise = raise error message
+* super = super for function inherith
+* raise = raise error message
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -39,7 +40,7 @@ Copiare il file snippets.conf in ~/.config/geany
 
 *USO*
 
-Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento dello snippet
+Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento automatico dello snippet
 
 * class = struttura di una classe
 * cols = struttura _column
@@ -54,4 +55,5 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
-* oraise = messaggio di errore di raise
+* super = ereditare una funzione
+* raise = messaggio di errore di raise
