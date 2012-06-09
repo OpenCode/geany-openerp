@@ -34,7 +34,9 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 **XML CODE**
 
 * tree = new tree structure
+* tree_in = inherited tree structure
 * form = new form structure
+* form_in = inherited form structure
 * menu = menu structure
 * search = search structure
 * action = action structure
@@ -75,7 +77,9 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 **CODICE XML**
 
 * tree = struttura nuova tree
+* tree_in = struttura tree ereditata
 * form = struttura nuovo form
+* form_in = struttura form ereditata
 * menu = struttura menu
 * search = struttura search
 * action = struttura action
