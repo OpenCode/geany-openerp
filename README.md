@@ -29,6 +29,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * m2o = field many2one
 * super = super for function inherith
 * raise = raise error message
+* pdb = debugger import
 
 **XML CODE**
 
@@ -36,6 +37,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * form = new form structure
 * menu = menu structure
 * search = search structure
+* action = action structure
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -68,6 +70,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * m2o = field many2one
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
+* pdb = import del debugger
 
 **CODICE XML**
 
@@ -75,3 +78,4 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * form = struttura nuovo form
 * menu = struttura menu
 * search = struttura search
+* action = struttura action
