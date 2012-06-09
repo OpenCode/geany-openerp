@@ -43,6 +43,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * button = object button
 * button_action = action button
 * notebook = notebook structure
+* filter = filter field in search view
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -89,3 +90,4 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * button = button di tipo object
 * button_action = button di tipo action
 * notebook = struttura del notebook
+* filter = campo filter nella vista search
