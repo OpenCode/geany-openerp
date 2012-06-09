@@ -35,6 +35,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * tree = new tree structure
 * form = new form structure
 * menu = menu structure
+* search = search structure
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -50,7 +51,7 @@ Copiare (o linkare) il file snippets.conf in ~/.config/geany
 
 Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l'autoinserimento automatico dello snippet
 
-** CODICE PYTHON **
+**CODICE PYTHON**
 
 * class = struttura di una classe
 * cols = struttura _column
@@ -73,3 +74,4 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * tree = struttura nuova tree
 * form = struttura nuovo form
 * menu = struttura menu
+* search = struttura search
