@@ -40,6 +40,8 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * menu = menu structure
 * search = search structure
 * action = action structure
+* button = object button
+* button_action = action button
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
@@ -83,3 +85,5 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * menu = struttura menu
 * search = struttura search
 * action = struttura action
+* button = button di tipo object
+* button_action = button di tipo action
