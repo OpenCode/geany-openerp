@@ -30,7 +30,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * super = super for function inherith
 * raise = raise error message
 * pdb = debugger import
-* python_py = __openerp__.py file structure
+* python\_py = \_\_openerp\_\_.py file structure
 
 **XML CODE**
 
