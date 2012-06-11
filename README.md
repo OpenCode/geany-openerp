@@ -30,6 +30,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * super = super for function inherith
 * raise = raise error message
 * pdb = debugger import
+* python_py = __openerp__.py file structure
 
 **XML CODE**
 
@@ -79,6 +80,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
 * pdb = import del debugger
+* python_py = struttura del file __openerp__.py
 
 **CODICE XML**
 
