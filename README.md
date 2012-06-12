@@ -31,6 +31,11 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * raise = raise error message
 * pdb = debugger import
 * python\_py = \_\_openerp\_\_.py file structure
+* create = create ORM method
+* write = write ORM method
+* unlink = unlink ORM method
+* browse = browse ORM method
+* search = search ORM method
 
 **XML CODE**
 
@@ -81,6 +86,11 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * raise = messaggio di errore di raise
 * pdb = import del debugger
 * python\_py = struttura del file \_\_openerp\_\_.py
+* create = metodo dell'ORM create
+* write = metodo dell'ORM write
+* unlink = metodo dell'ORM unlink
+* browse = metodo dell'ORM browse
+* search = metodo dell'ORM search
 
 **CODICE XML**
 
