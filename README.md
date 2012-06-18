@@ -45,6 +45,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * form_in = inherited form structure
 * menu = menu structure
 * search = search structure
+* search_in = inherited search structure
 * action = action structure
 * button = object button
 * button_action = action button
@@ -100,6 +101,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * form_in = struttura form ereditata
 * menu = struttura menu
 * search = struttura search
+* search_in = struttura search ereditata
 * action = struttura action
 * button = button di tipo object
 * button_action = button di tipo action
