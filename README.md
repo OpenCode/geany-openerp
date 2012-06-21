@@ -27,6 +27,8 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* fnct = field function
+* def_fnct = function definition
 * super = super for function inherith
 * raise = raise error message
 * pdb = debugger import
@@ -83,6 +85,8 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* fnct = field function
+* def_fnct = definizione della funzione
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
 * pdb = import del debugger
