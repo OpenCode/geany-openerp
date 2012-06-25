@@ -17,6 +17,8 @@ Go to File -> New from template
 and select your base file from:
 
 * \_\_openerp\_\_.py
+* openerp_class.py
+* openerp_view.xml
 
 ## snippets.conf
 
@@ -93,6 +95,8 @@ Cliccare su File -> Nuovo da modello
 e selezionare il proprio file base tra i seguenti:
 
 * \_\_openerp\_\_.py
+* openerp_class.py
+* openerp_view.xml
 
 ## snippets.conf
 

@@ -19,18 +19,16 @@
 #
 ##############################################################################
 
-{
-    'name': "",
-    'version': '',
-    'category': '',
-    'description': """""",
-    'author': '{developer} <{mail}>',
-    'website': '',
-    'license': 'AGPL-3',
-    "depends" : [],
-    "init_xml" : [],
-    "update_xml" : [],
-    "demo_xml" : [],
-    "active": False,
-    "installable": True
-}
+from osv import fields, osv
+from tools.translate import _
+
+class (osv.osv):
+
+	_name = ""
+	_description = ""
+
+	_columns = {
+		
+		}
+
+()
