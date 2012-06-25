@@ -1,5 +1,21 @@
 This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
 
+## templates
+
+Contains the filetype to create rapidly new basci standard openerp file
+
+*INSTALLATION*
+
+Copy (or link) all the files in "templates/files" folder in ~/.config/geany/template/files
+
+*USE*
+
+Go to File -> New from template
+
+and select your base file from:
+
+* __openerp__.py
+
 ## snippets.conf
 
 Contains the definition of different snippets of code used within the files .py
@@ -57,6 +73,22 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * domain = domain field
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
+
+## templates
+
+Contiene dei file di base per creare rapidamente dei file standard per openerp
+
+*INSTALLAZIONE*
+
+Copiare (o linkare) tutti i file della cartella "templates/files" in ~/.config/geany/template/files
+
+*USO*
+
+Cliccare su File -> Nuovo da modello
+
+e selezionare il proprio file base tra i seguenti:
+
+* __openerp__.py
 
 ## snippets.conf
 
