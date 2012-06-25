@@ -8,6 +8,8 @@ Contains the filetype to create rapidly new basci standard openerp file
 
 Copy (or link) all the files in "templates/files" folder in ~/.config/geany/template/files
 
+Go to Modify -> Preference -> Models and set the parameters
+
 *USE*
 
 Go to File -> New from template
@@ -81,6 +83,8 @@ Contiene dei file di base per creare rapidamente dei file standard per openerp
 *INSTALLAZIONE*
 
 Copiare (o linkare) tutti i file della cartella "templates/files" in ~/.config/geany/template/files
+
+Cliccare su Modifica -> Preferenze -> Modelli e settare i vari parametri
 
 *USO*
 
