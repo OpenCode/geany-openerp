@@ -18,9 +18,9 @@
         <field name="model"></field>
         <field name="type">form</field>
         <field name="arch" type="xml">
-            <form string="" colors="">
+            <form string="">
                 <field name="name"/>
-            </tree>
+            </form>
         </field>
     </record>
 
