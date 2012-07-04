@@ -1,5 +1,25 @@
 This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
 
+## templates
+
+Contains the filetype to create rapidly new basci standard openerp file
+
+*INSTALLATION*
+
+Copy (or link) all the files in "templates/files" folder in ~/.config/geany/template/files
+
+Go to Modify -> Preference -> Models and set the parameters
+
+*USE*
+
+Go to File -> New from template
+
+and select your base file from:
+
+* \_\_openerp\_\_.py
+* openerp_class.py
+* openerp_view.xml
+
 ## snippets.conf
 
 Contains the definition of different snippets of code used within the files .py
@@ -27,6 +47,8 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* fnct = field function
+* def_fnct = function definition
 * super = super for function inherith
 * raise = raise error message
 * pdb = debugger import
@@ -56,6 +78,26 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
 
+## templates
+
+Contiene dei file di base per creare rapidamente dei file standard per openerp
+
+*INSTALLAZIONE*
+
+Copiare (o linkare) tutti i file della cartella "templates/files" in ~/.config/geany/template/files
+
+Cliccare su Modifica -> Preferenze -> Modelli e settare i vari parametri
+
+*USO*
+
+Cliccare su File -> Nuovo da modello
+
+e selezionare il proprio file base tra i seguenti:
+
+* \_\_openerp\_\_.py
+* openerp_class.py
+* openerp_view.xml
+
 ## snippets.conf
 
 Contiene la definizione di diversi snippet di codice da usare all'interno dei file .py
@@ -83,6 +125,8 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* fnct = field function
+* def_fnct = definizione della funzione
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
 * pdb = import del debugger
