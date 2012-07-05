@@ -19,6 +19,8 @@ and select your base file from:
 * \_\_openerp\_\_.py
 * openerp_class.py
 * openerp_view.xml
+* wizard.py
+* wizard_view.xml
 
 ## snippets.conf
 
@@ -97,6 +99,8 @@ e selezionare il proprio file base tra i seguenti:
 * \_\_openerp\_\_.py
 * openerp_class.py
 * openerp_view.xml
+* wizard.py
+* wizard_view.xml
 
 ## snippets.conf
 
