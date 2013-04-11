@@ -52,7 +52,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * m2o = field many2one
 * fnct = field function
 * def_fnct = function definition
-* super = super for function inherith
+* super = super for function inherit
 * raise = raise error message
 * pdb = debugger import
 * python\_py = \_\_openerp\_\_.py file structure
@@ -67,7 +67,9 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * tree = new tree structure
 * tree_in = inherited tree structure
 * form = new form structure
+* form7 = new form structure with OpenERP 7 specific tag
 * form_in = inherited form structure
+* kanban = kanban structure
 * menu = menu structure
 * search = search structure
 * search_in = inherited search structure
@@ -78,6 +80,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * filter = filter field in search view
 * context = context field
 * domain = domain field
+* attrs = complete attrs field tag
 
 ##Generate OpenERP Module Structure
 
@@ -160,7 +163,9 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * tree = struttura nuova tree
 * tree_in = struttura tree ereditata
 * form = struttura nuovo form
+* form7 = struttura nuovo form con tag specifici di OpenERP 7
 * form_in = struttura form ereditata
+* kanban = struttura kanban
 * menu = struttura menu
 * search = struttura search
 * search_in = struttura search ereditata
@@ -171,6 +176,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * filter = campo filter nella vista search
 * context = campo context
 * domain = campo domain
+* attrs = tag attrs dei campi completo
 
 ##Genera Struttura Modulo OpenERP
 
