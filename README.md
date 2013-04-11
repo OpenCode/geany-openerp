@@ -80,6 +80,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * filter = filter field in search view
 * context = context field
 * domain = domain field
+* help = help tag used in the action structure
 * attrs = complete attrs field tag
 
 ##Generate OpenERP Module Structure
@@ -176,6 +177,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * filter = campo filter nella vista search
 * context = campo context
 * domain = campo domain
+* help = campo help da usare nelle action
 * attrs = tag attrs dei campi completo
 
 ##Genera Struttura Modulo OpenERP
