@@ -54,6 +54,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * def_fnct = function definition
 * super = super for function inherit
 * raise = raise error message
+* raise7 = raise error message for OpenERP 7
 * pdb = debugger import
 * python\_py = \_\_openerp\_\_.py file structure
 * create = create ORM method
@@ -151,6 +152,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * def_fnct = definizione della funzione
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
+* raise7 = messaggio di errore di raise per OpenERP 7
 * pdb = import del debugger
 * python\_py = struttura del file \_\_openerp\_\_.py
 * create = metodo dell'ORM create
