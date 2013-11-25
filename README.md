@@ -193,3 +193,7 @@ Copiare (o linkare) la cartella scripts ed il file geany.conf in ~/.config/geany
 *USO*
 
 Aprire il menu Genera -> Genera Struttura Modulo OpenERP e seguire i vari passi.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/OpenCode/geany-openerp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
