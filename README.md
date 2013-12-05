@@ -65,6 +65,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 
 **XML CODE**
 
+* field = field tag
 * tree = new tree structure
 * tree_in = inherited tree structure
 * form = new form structure
@@ -163,6 +164,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 
 **CODICE XML**
 
+* field = tag field
 * tree = struttura nuova tree
 * tree_in = struttura tree ereditata
 * form = struttura nuovo form
