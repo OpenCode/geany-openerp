@@ -81,6 +81,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * button_action = action button
 * notebook = notebook structure
 * filter = filter field in search view
+* group_by = filter field iwith group by context
 * context = context field
 * domain = domain field
 * help = help tag used in the action structure
@@ -170,6 +171,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * button_action = button di tipo action
 * notebook = struttura del notebook
 * filter = campo filter nella vista search
+* group_by = campo filter con context di raggruppamento già popolato
 * context = campo context
 * domain = campo domain
 * help = campo help da usare nelle action

@@ -13,8 +13,9 @@
             <field name="arch" type="xml">
                 <form string="">
                     <field name="name"/>
-                    <button string="" special="cancel" icon="gtk-cancel" colspan="2"/>
-                    <button string="" name="" type="object" icon="gtk-ok" colspan="2"/>
+                    <group>
+                        <button string="" special="cancel" icon="gtk-cancel" colspan="2"/>
+                        <button string="" name="" type="object" icon="gtk-ok" colspan="2"/>
                     </group>
                 </form>
             </field>
