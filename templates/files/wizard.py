@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
-#    
+#
 #    Copyright (C) {year} {developer} (<{mail}>)
 #    All Rights Reserved
 #
@@ -20,22 +20,21 @@
 ##############################################################################
 
 
-from osv import fields,osv
+from osv import fields, osv
 from tools.translate import _
 
 
 class (osv.osv_memory):
 
-	_name = ""
-	_description = ""
+    _name = ""
+    _description = ""
 
-	_columns = {
-		
-		}
+    _columns = {
+        
+        }
 
-
-	def (self, cr, uid, ids, context={}):
-		
-		return {'type': 'ir.actions.act_window_close'}
+    def (self, cr, uid, ids, context={}):
+        
+        return {'type': 'ir.actions.act_window_close'}
 
 ()

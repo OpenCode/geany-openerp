@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
-#    
+#
 #    Copyright (C) {year} {developer} (<{mail}>)
 #    All Rights Reserved
 #
@@ -24,11 +24,11 @@ from tools.translate import _
 
 class (osv.osv):
 
-	_name = ""
-	_description = ""
+    _name = ""
+    _description = ""
 
-	_columns = {
-		
-		}
+    _columns = {
+        
+        }
 
 ()

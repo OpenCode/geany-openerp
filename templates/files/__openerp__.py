@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
-#    
+#
 #    Copyright (C) {year} {developer} (<{mail}>)
 #    All Rights Reserved
 #
@@ -27,10 +27,10 @@
     'author': '{developer} <{mail}>',
     'website': '',
     'license': 'AGPL-3',
-    "depends" : [],
-    "init_xml" : [],
-    "update_xml" : [],
-    "demo_xml" : [],
+    "depends": [],
+    "init_xml": [],
+    "update_xml": [],
+    "demo_xml": [],
     "active": False,
     "installable": True
 }
