@@ -1,5 +1,5 @@
 This repository is a collection of configuration files to help developers of **OpenERP** modules that use the editor **Geany** for their work.
-To install the files is possible to launch the install.sh script in a terminal or follow the instruction:
+To install the files is possible to follow the instruction:
 
 ## templates
 
@@ -86,20 +86,9 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * help = help tag used in the action structure
 * attrs = complete attrs field tag
 
-##Generate OpenERP Module Structure
-
-It'a a menu that create in 2 steps a OpenERP module structure
-
-*INSTALLATION*
-
-Copy (or link) the folder scripts and file geany.conf in ~/.config/geany
-
-*USE*
-
-Open menu Generate -> Generate OpenERP Module Structure and follow the steps.
 
 Questo repository è una raccolta di file di configurazione utili agli sviluppatori di moduli di **OpenERP** che utilizzano l'editor **Geany** per il loro lavoro.
-Per l'installazione è possibile lanciare lo script install.sh in un terminale o seguire le istruzioni riportate di seguito:
+Per l'installazione è possibile seguire le istruzioni riportate di seguito:
 
 ## templates
 
@@ -185,18 +174,6 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * domain = campo domain
 * help = campo help da usare nelle action
 * attrs = tag attrs dei campi completo
-
-##Genera Struttura Modulo OpenERP
-
-È una voce di menu che permette di creare in 2 steps la struttura di un classico modulo OpenERP
-
-*INSTALLAZIONE*
-
-Copiare (o linkare) la cartella scripts ed il file geany.conf in ~/.config/geany
-
-*USO*
-
-Aprire il menu Genera -> Genera Struttura Modulo OpenERP e seguire i vari passi.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/OpenCode/geany-openerp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
