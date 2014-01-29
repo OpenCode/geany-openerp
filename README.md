@@ -81,7 +81,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * button_action = action button
 * notebook = notebook structure
 * filter = filter field in search view
-* group_by = filter field iwith group by context
+* group_by = filter field with group by context
 * context = context field
 * domain = domain field
 * help = help tag used in the action structure
