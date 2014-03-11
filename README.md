@@ -50,6 +50,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* m2m = field many2many
 * related = field related
 * fnct = field function
 * def_fnct = function definition related to function field
@@ -141,6 +142,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * selec = field selection
 * o2m = field one2many
 * m2o = field many2one
+* m2m = field many2many
 * related = field related
 * fnct = field function
 * def_fnct = definizione della funzione lagata ad un campo function
