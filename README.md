@@ -52,7 +52,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * m2o = field many2one
 * related = field related
 * fnct = field function
-* def_fnct = function definition
+* def_fnct = function definition related to function field
 * super = super for function inherit
 * raise = raise error message
 * raise7 = raise error message for OpenERP 7
@@ -72,6 +72,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * form = new form structure
 * form7 = new form structure with OpenERP 7 specific tag
 * form_in = inherited form structure
+* xpath = xpath structure
 * kanban = kanban structure
 * menu = menu structure
 * search = search structure
@@ -142,7 +143,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * m2o = field many2one
 * related = field related
 * fnct = field function
-* def_fnct = definizione della funzione
+* def_fnct = definizione della funzione lagata ad un campo function
 * super = ereditare una funzione
 * raise = messaggio di errore di raise
 * raise7 = messaggio di errore di raise per OpenERP 7
@@ -162,6 +163,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * form = struttura nuovo form
 * form7 = struttura nuovo form con tag specifici di OpenERP 7
 * form_in = struttura form ereditata
+* xpath = struttura xpath
 * kanban = struttura kanban
 * menu = struttura menu
 * search = struttura search
@@ -176,7 +178,4 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * domain = campo domain
 * help = campo help da usare nelle action
 * attrs = tag attrs dei campi completo
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/OpenCode/geany-openerp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
