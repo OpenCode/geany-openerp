@@ -64,6 +64,7 @@ Just type keywords below and press TAB button to get the auto-insertion of the s
 * unlink = unlink ORM method
 * browse = browse ORM method
 * search = search ORM method
+* copy = copy method
 
 **XML CODE**
 
@@ -156,6 +157,7 @@ Basta digitare una delle parole chiave che seguono e digitare TAB per ottenere l
 * unlink = metodo dell'ORM unlink
 * browse = metodo dell'ORM browse
 * search = metodo dell'ORM search
+* copy = metodo copy
 
 **CODICE XML**
 
