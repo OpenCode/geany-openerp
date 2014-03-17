@@ -3,7 +3,7 @@ To install the files is possible to follow the instruction:
 
 ## templates
 
-Contains the filetype to create rapidly new basci standard openerp file
+Contains the filetype to create rapidly new standard openerp file
 
 *INSTALLATION*
 
@@ -22,6 +22,18 @@ and select your base file from:
 * openerp_view.xml
 * wizard.py
 * wizard_view.xml
+
+## tags
+
+Contains the OpenERP ORM functions declaration to show the correct use of a function while write it
+
+*INSTALLATION*
+
+Copy (or link) all the files in "tags" folder in ~/.config/geany/tags
+
+*USE*
+
+Write an OpenERP ORM function to see the correct declaration in a tooltip
 
 ## snippets.conf
 
@@ -116,6 +128,18 @@ e selezionare il proprio file base tra i seguenti:
 * openerp_view.xml
 * wizard.py
 * wizard_view.xml
+
+## tags
+
+Contiene le dichiarazioni delle funzioni dell'ORM di OpenERP per mostrare il loro uso corretto mentre le si scrive
+
+*INSTALLAZIONE*
+
+Copiare (o linkare) tutti i file della cartella "tags" in ~/.config/geany/tags
+
+*USO*
+
+Scrivere una funzione dell'ORM di OpenERP per mostrare il tooltip con la corretta dichiarazione
 
 ## snippets.conf
 
